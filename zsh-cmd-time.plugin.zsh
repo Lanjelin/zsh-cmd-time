@@ -1,0 +1,1 @@
+cmd-time.plugin.zsh
